@@ -36,5 +36,6 @@ body {
 .circle2 {
     border-color: blue;
     background-color: yellow;
-    color: green;
+    color: green;    
+    border-radius: 0%;
 }
